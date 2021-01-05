@@ -1,0 +1,121 @@
+// Main body styles
+body {
+  padding-bottom: 12%;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    color: white;
+  }
+  background-color: black;
+  text-align: center;
+  font-size: 62.5%;
+  h1 {
+    font-size: 5rem;
+  }
+  h2 {
+    font-size: 4rem;
+  }
+  h3 {
+    font-size: 3.5rem;
+  }
+  h4 {
+    font-size: 3rem;
+  }
+  h5 {
+    font-size: 2.5rem;
+  }
+  h6 {
+    font-size: 2rem;
+  }
+  p {
+    font-size: 1.6rem;
+  }
+}
+
+// Navigation styles
+nav {
+  width: 100%;
+  border: 1px solid blue;
+  background: linear-gradient(
+    to right,
+    white,
+    rgb(0, 94, 184),
+    rgb(0, 94, 184)
+  );
+  background-color: rgb(0, 94, 184);
+  text-align: right;
+  padding: 1.5% 0;
+
+  a {
+    margin: 1%;
+    padding: 0.5% 1%;
+    color: white;
+    border: 1px solid white;
+  }
+}
+
+// Top main banner styles
+.banner {
+  background-image: url("./imgs/alexander-popov-JhYnL-BiP18-unsplash.jpg");
+  height: 50vh;
+  background-position-y: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: blur(3px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  h1,
+  h2 {
+    color: white;
+    text-shadow: 0px 0px black, 0px 1px white, black 3px 3px;
+  }
+}
+
+.bubble_holder {
+  width: 60%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  .bubble_me {
+    border: 1px solid black;
+    border-radius: 50%;
+    width: max-content;
+  }
+}
+
+.djs {
+  width: 80%;
+  margin: 0 10%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 3%;
+  row-gap: 1%;
+  img {
+    width: 100%;
+    margin: 0 auto;
+  }
+}
+
+.player {
+  border: 1px solid white;
+
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  bottom: 0;
+
+  border: 1px solid blue;
+  background: linear-gradient(
+    to left,
+    white,
+    white,
+    rgb(0, 94, 184),
+    rgb(0, 94, 184)
+  );
+  background-color: rgb(0, 94, 184);
+}
