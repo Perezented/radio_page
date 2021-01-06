@@ -89,6 +89,12 @@ nav {
 }
 
 // Top main banner styles
+h1 {
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  top: 20%;
+}
 .banner {
   background-image: url("./imgs/alexander-popov-JhYnL-BiP18-unsplash.jpg");
   height: 50vh;

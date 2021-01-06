@@ -1,7 +1,8 @@
 export default function Banner() {
   return (
     <>
-      <div className="banner" />
+      <h1>Latin Music Radio Online</h1>
+      <div className="banner"></div>
     </>
   );
 }
