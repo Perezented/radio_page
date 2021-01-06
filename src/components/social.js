@@ -1,6 +1,6 @@
 export default function Social() {
   return (
-    <section>
+    <section id="social" className="social">
       <h3>Redes Sociales</h3>
       <h4>Siguenos En Facebook, Twitter y Instagram</h4>
       <div className="bubble_holder">
