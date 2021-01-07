@@ -8,7 +8,7 @@ import dj6 from "../imgs/radio_imgs/micromix-768x1122.jpg";
 import dj7 from "../imgs/radio_imgs/toritodj-768x1122.jpg";
 export default function DJS() {
   return (
-    <section>
+    <section id="djs">
       <h4>DJ's En Latin Music Radio Online</h4>
       <div className="djs">
         <img src={dj0} alt="DJ Avila, Jueves 8pm y Domingo 12pm" />
