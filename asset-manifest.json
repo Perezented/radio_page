@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/radio_page/static/css/main.3a7ab3ad.chunk.css",
+    "main.js": "/radio_page/static/js/main.0e893b48.chunk.js",
+    "main.js.map": "/radio_page/static/js/main.0e893b48.chunk.js.map",
+    "runtime-main.js": "/radio_page/static/js/runtime-main.55169b83.js",
+    "runtime-main.js.map": "/radio_page/static/js/runtime-main.55169b83.js.map",
+    "static/js/2.cc4cb172.chunk.js": "/radio_page/static/js/2.cc4cb172.chunk.js",
+    "static/js/2.cc4cb172.chunk.js.map": "/radio_page/static/js/2.cc4cb172.chunk.js.map",
+    "static/js/3.264faeaf.chunk.js": "/radio_page/static/js/3.264faeaf.chunk.js",
+    "static/js/3.264faeaf.chunk.js.map": "/radio_page/static/js/3.264faeaf.chunk.js.map",
+    "index.html": "/radio_page/index.html",
+    "static/css/main.3a7ab3ad.chunk.css.map": "/radio_page/static/css/main.3a7ab3ad.chunk.css.map",
+    "static/js/2.cc4cb172.chunk.js.LICENSE.txt": "/radio_page/static/js/2.cc4cb172.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/radio_page/static/media/alexander-popov-JhYnL-BiP18-unsplash.c077bcdb.jpg",
+    "static/media/aviladj-1-768x1122.e81bb25d.jpg": "/radio_page/static/media/aviladj-1-768x1122.e81bb25d.jpg",
+    "static/media/dj-Tigre-1-768x1122.990a6540.jpg": "/radio_page/static/media/dj-Tigre-1-768x1122.990a6540.jpg",
+    "static/media/djcarlos-768x1122.ca198fbb.jpg": "/radio_page/static/media/djcarlos-768x1122.ca198fbb.jpg",
+    "static/media/djfrancis-el-original-768x1122.503ce1a4.jpg": "/radio_page/static/media/djfrancis-el-original-768x1122.503ce1a4.jpg",
+    "static/media/djfrancisco-1-768x1122.ca6928e3.jpg": "/radio_page/static/media/djfrancisco-1-768x1122.ca6928e3.jpg",
+    "static/media/djplomo-768x1122.ec4c3b0a.jpg": "/radio_page/static/media/djplomo-768x1122.ec4c3b0a.jpg",
+    "static/media/micromix-768x1122.f9e50cb8.jpg": "/radio_page/static/media/micromix-768x1122.f9e50cb8.jpg",
+    "static/media/toritodj-768x1122.c59b84f6.jpg": "/radio_page/static/media/toritodj-768x1122.c59b84f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55169b83.js",
+    "static/js/2.cc4cb172.chunk.js",
+    "static/css/main.3a7ab3ad.chunk.css",
+    "static/js/main.0e893b48.chunk.js"
+  ]
+}
